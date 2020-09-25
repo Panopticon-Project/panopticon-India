@@ -5,3 +5,5 @@ https://economictimes.indiatimes.com/news/defence/india-is-quietly-preparing-a-c
 https://medium.com/dfrlab/electionwatch-inauthentic-activity-in-india-8940588e09b5
 
 https://medium.com/dfrlab/electionwatch-bots-on-both-sides-in-india-c87c84040229
+
+https://www.darkreading.com/threat-intelligence/indias-cybercrime-and-apt-operations-on-the-rise/d/d-id/1338999
